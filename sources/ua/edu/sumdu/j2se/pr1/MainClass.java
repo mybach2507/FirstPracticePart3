@@ -1,7 +1,7 @@
 package ua.edu.sumdu.j2se.pr1;
 
 import ua.edu.sumdu.j2se.pr1.operations.Operation;
-
+// Main class
 public class MainClass {
 
 	public static void main (String [] args) {
